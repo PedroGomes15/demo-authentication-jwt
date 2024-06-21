@@ -65,6 +65,10 @@ Para executar os testes unitários, utilize o seguinte comando Maven:
 ```bash
 mvn test
 ```
+## Fluxograma
+
+![Auth Token - Spring drawio](https://github.com/PedroGomes15/demo-authentication-jwt/assets/19183303/d4c9f277-3f1c-473a-b588-8a9834fe4543)
+
 ## Autores
 
 - [@PedroGomes15](https://github.com/PedroGomes15)
